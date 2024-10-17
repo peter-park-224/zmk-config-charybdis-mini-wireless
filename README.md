@@ -1,4 +1,4 @@
-# ZMK Firmware for Charybdis 3x6+6 wireless keyboard
+# ZMK Firmware for Charybdis 3x6+3 wireless keyboard
 
 This is a repository for a ZMK Firmware for Charybdis 3x6+3 wireless keyboard.
 
