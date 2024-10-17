@@ -1,6 +1,6 @@
 layers:
   BASE:
-  - ESC
+  - Esc
   - Q
   - W
   - E
@@ -11,16 +11,16 @@ layers:
   - I
   - O
   - P
-  - BSPC
-  - TAB
+  - ⌫
+  - ↹
   - {t: A, h: LEFT GUI}
   - {t: S, h: LEFT ALT}
-  - {t: D, h: LCTRL}
+  - {t: D, h: Ctrl}
   - {t: F, h: LEFT SHIFT}
   - G
   - H
   - {t: J, h: LEFT SHIFT}
-  - {t: K, h: RCTRL}
+  - {t: K, h: Ctrl}
   - {t: L, h: RIGHT ALT}
   - {t: ;, h: RIGHT GUI}
   - ''''
@@ -36,16 +36,16 @@ layers:
   - .
   - /
   - SCROLL
-  - LGUI
-  - SPACE
+  - Gui
+  - ␣
   - NAV
   - SYMNUM
-  - RET
-  - LALT
+  - ⏎
+  - Alt
   NAV:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - UP
+  - ↑
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -53,17 +53,17 @@ layers:
   - '8'
   - '9'
   - '0'
-  - HOME
+  - Home
   - F1
   - {t: ▽, type: trans}
-  - LEFT
-  - DOWN
-  - RIGHT
+  - ←
+  - ↓
+  - →
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '4'
   - {t: '5', h: RIGHT SHIFT}
-  - {t: '6', h: RCTRL}
+  - {t: '6', h: Ctrl}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F10
@@ -83,7 +83,7 @@ layers:
   - {t: ▽, type: trans}
   - {type: held}
   - {t: BACKSPACE, h: FUN}
-  - LSHFT
+  - Shift
   - {t: ▽, type: trans}
   SYMNUM:
   - BT CLR
@@ -97,7 +97,7 @@ layers:
   - KP MULTIPLY
   - (
   - )
-  - DEL
+  - ⌦
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - BT PRV
@@ -106,13 +106,13 @@ layers:
   - {t: ▽, type: trans}
   - _
   - {t: '=', h: RIGHT SHIFT}
-  - {t: '[', h: RCTRL}
+  - {t: '[', h: Ctrl}
   - {t: ']', h: RIGHT ALT}
   - {t: \, h: RIGHT GUI}
   - '`'
   - {t: ▽, type: trans}
   - OUT TOG
-  - '&bootloader'
+  - Boot
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -135,14 +135,14 @@ layers:
   - F2
   - F3
   - F4
-  - {t: BT, h: '0'}
-  - {t: BT, h: '1'}
-  - {t: BT, h: '2'}
-  - {t: BT, h: '3'}
-  - {t: BT, h: '4'}
+  - BT 1
+  - BT 2
+  - BT 3
+  - BT 4
+  - BT 5
   - BT CLR
   - {t: ▽, type: trans}
-  - DEL
+  - ⌦
   - F5
   - F6
   - F7
@@ -152,7 +152,7 @@ layers:
   - VOLUME DOWN
   - VOLUME UP
   - MUTE
-  - LALT
+  - Alt
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F9
@@ -208,9 +208,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '&mkp LCLK'
-  - '&mkp MCLK'
-  - '&mkp RCLK'
+  - Left Click
+  - Middle Click
+  - Right Click
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -302,11 +302,11 @@ layers:
   - {t: ▽, type: trans}
 combos:
 - p: [19, 20]
-  k: '&mkp LCLK'
+  k: Left Click
 - p: [20, 21]
-  k: '&mkp RCLK'
+  k: Right Click
 - p: [21, 22]
-  k: '&mkp MCLK'
+  k: Middle Click
 - p: [4, 16]
   k: (
 - p: [7, 19]
@@ -322,4 +322,4 @@ combos:
 - p: [8, 9]
   k: DELETE
 - p: [17, 18]
-  k: '&caps_word'
+  k: Caps Word
