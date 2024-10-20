@@ -81,6 +81,11 @@
             bindings = <&to 5>;
             key-positions = <0 12 24 11 23 35>;
         };
+
+        MOUSE_SCROLL {
+            bindings = <&tdtb2>;
+            key-positions = <24 26 25>;
+        };
     };
 
     behaviors {
@@ -116,6 +121,7 @@
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
             bindings = <&httl 9 7>, <&to 0>;
+
             tapping-term-ms = <200>;
         };
 
