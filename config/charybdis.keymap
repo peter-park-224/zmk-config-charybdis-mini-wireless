@@ -77,14 +77,14 @@
             key-positions = <17 18>;
         };
 
-        GAME_MODE {
-            bindings = <&to 5>;
-            key-positions = <0 12 24 11 23 35>;
-        };
-
         MOUSE_SCROLL {
             bindings = <&tdtb2>;
             key-positions = <24 26 25>;
+        };
+
+        GAME_MODE {
+            bindings = <&to 5>;
+            key-positions = <24 12 0>;
         };
     };
 
