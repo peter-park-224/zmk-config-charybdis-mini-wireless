@@ -323,3 +323,5 @@ combos:
   k: DELETE
 - p: [17, 18]
   k: Caps Word
+- p: [0, 12, 24, 11, 23, 35]
+  k: {t: GAME, h: toggle}
