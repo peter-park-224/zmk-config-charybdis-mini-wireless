@@ -129,7 +129,7 @@
         tdtb: td_mouse_scroll {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
-            bindings = <&httl 8 4>, <&to 0>;
+            bindings = <&httl 7 4>, <&to 0>;
 
             tapping-term-ms = <200>;
         };
@@ -137,7 +137,7 @@
         tdtb2: td_slow_scroll {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
-            bindings = <&httl 8 0>, <&to 7>;
+            bindings = <&httl 7 0>, <&to 6>;
         };
     };
 
