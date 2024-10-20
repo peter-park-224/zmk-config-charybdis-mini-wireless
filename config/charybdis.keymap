@@ -182,10 +182,10 @@
 
         AUTO-MOUSE {
             bindings = <
-&trans  &trans  &trans  &trans     &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans     &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans     &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans
-                        &mkp LCLK  &mkp MCLK  &mkp RCLK    &trans  &trans  &trans
+&trans  &trans          &trans          &trans          &trans          &trans       &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans          &trans          &trans          &trans          &trans       &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp C_AC_UNDO   &kp C_AC_CUT    &kp C_AC_COPY   &kp C_AC_PASTE  &mkp MCLK    &trans  &trans  &trans  &trans  &trans  &trans
+                                        &tdtb2          &mkp LCLK       &mkp RCLK    &trans  &trans  &trans
             >;
         };
 
@@ -200,10 +200,10 @@
 
         SCROLL {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-                        &trans  &trans  &trans    &trans  &trans  &trans
+&trans  &trans          &trans          &trans          &trans          &trans          &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans          &trans          &trans          &trans          &trans          &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp C_AC_UNDO   &kp C_AC_CUT    &kp C_AC_COPY   &kp C_AC_PASTE  &mkp MCLK       &trans  &trans  &trans  &trans  &trans  &trans
+                                        &tdtb2          &mkp LCLK       &mkp RCLK       &trans  &trans  &trans
             >;
         };
     };
