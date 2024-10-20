@@ -117,6 +117,15 @@
             tapping-term-ms = <100>;
         };
 
+        httl: ht_two_layers {
+            compatible = "zmk,behavior-hold-tap";
+            bindings = <&mo>, <&to>;
+
+            #binding-cells = <2>;
+            flavor = "balanced";
+            tapping-term-ms = <200>;
+        };
+
         tdtb: td_mouse_scroll {
             compatible = "zmk,behavior-tap-dance";
             #binding-cells = <0>;
