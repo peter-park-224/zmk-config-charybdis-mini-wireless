@@ -356,10 +356,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="700" y="63" class="combo tap">}</text>
 </g>
 <g class="combo combopos-9">
-<rect rx="6" ry="6" x="658" y="18" width="28" height="26" class="combo"/>
-<text x="672" y="32" class="combo tap">DELETE</text>
-</g>
-<g class="combo combopos-10">
 <path d="M420,98 l-93,0" class="combo"/>
 <path d="M420,98 l93,0" class="combo"/>
 <rect rx="6" ry="6" x="406" y="85" width="28" height="26" class="combo"/>
@@ -367,13 +363,7 @@ path.combo { stroke: #7f7f7f; }
 <tspan x="420" dy="-0.6em">Caps</tspan><tspan x="420" dy="1.2em">Word</tspan>
 </text>
 </g>
-<g class="combo combopos-11">
-<path d="M84,156 l-37,3" class="combo"/>
-<path d="M84,156 l38,-6" class="combo"/>
-<rect rx="6" ry="6" x="70" y="143" width="28" height="26" class="combo"/>
-<text x="84" y="156" class="combo tap">&amp;tdtb2</text>
-</g>
-<g class="combo combopos-12">
+<g class="combo combopos-10">
 <path d="M28,105 l0,37" class="combo"/>
 <path d="M28,105 l0,-37" class="combo"/>
 <rect rx="6" ry="6" x="14" y="92" width="28" height="26" class="combo"/>
@@ -604,10 +594,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="700" y="63" class="combo tap">}</text>
 </g>
 <g class="combo combopos-9">
-<rect rx="6" ry="6" x="658" y="18" width="28" height="26" class="combo"/>
-<text x="672" y="32" class="combo tap">DELETE</text>
-</g>
-<g class="combo combopos-10">
 <path d="M420,98 l-93,0" class="combo"/>
 <path d="M420,98 l93,0" class="combo"/>
 <rect rx="6" ry="6" x="406" y="85" width="28" height="26" class="combo"/>
@@ -615,13 +601,7 @@ path.combo { stroke: #7f7f7f; }
 <tspan x="420" dy="-0.6em">Caps</tspan><tspan x="420" dy="1.2em">Word</tspan>
 </text>
 </g>
-<g class="combo combopos-11">
-<path d="M84,156 l-37,3" class="combo"/>
-<path d="M84,156 l38,-6" class="combo"/>
-<rect rx="6" ry="6" x="70" y="143" width="28" height="26" class="combo"/>
-<text x="84" y="156" class="combo tap">&amp;tdtb2</text>
-</g>
-<g class="combo combopos-12">
+<g class="combo combopos-10">
 <path d="M28,105 l0,37" class="combo"/>
 <path d="M28,105 l0,-37" class="combo"/>
 <rect rx="6" ry="6" x="14" y="92" width="28" height="26" class="combo"/>
@@ -895,10 +875,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="700" y="63" class="combo tap">}</text>
 </g>
 <g class="combo combopos-9">
-<rect rx="6" ry="6" x="658" y="18" width="28" height="26" class="combo"/>
-<text x="672" y="32" class="combo tap">DELETE</text>
-</g>
-<g class="combo combopos-10">
 <path d="M420,98 l-93,0" class="combo"/>
 <path d="M420,98 l93,0" class="combo"/>
 <rect rx="6" ry="6" x="406" y="85" width="28" height="26" class="combo"/>
@@ -906,13 +882,7 @@ path.combo { stroke: #7f7f7f; }
 <tspan x="420" dy="-0.6em">Caps</tspan><tspan x="420" dy="1.2em">Word</tspan>
 </text>
 </g>
-<g class="combo combopos-11">
-<path d="M84,156 l-37,3" class="combo"/>
-<path d="M84,156 l38,-6" class="combo"/>
-<rect rx="6" ry="6" x="70" y="143" width="28" height="26" class="combo"/>
-<text x="84" y="156" class="combo tap">&amp;tdtb2</text>
-</g>
-<g class="combo combopos-12">
+<g class="combo combopos-10">
 <path d="M28,105 l0,37" class="combo"/>
 <path d="M28,105 l0,-37" class="combo"/>
 <rect rx="6" ry="6" x="14" y="92" width="28" height="26" class="combo"/>
@@ -1136,10 +1106,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="700" y="63" class="combo tap">}</text>
 </g>
 <g class="combo combopos-9">
-<rect rx="6" ry="6" x="658" y="18" width="28" height="26" class="combo"/>
-<text x="672" y="32" class="combo tap">DELETE</text>
-</g>
-<g class="combo combopos-10">
 <path d="M420,98 l-93,0" class="combo"/>
 <path d="M420,98 l93,0" class="combo"/>
 <rect rx="6" ry="6" x="406" y="85" width="28" height="26" class="combo"/>
@@ -1147,13 +1113,7 @@ path.combo { stroke: #7f7f7f; }
 <tspan x="420" dy="-0.6em">Caps</tspan><tspan x="420" dy="1.2em">Word</tspan>
 </text>
 </g>
-<g class="combo combopos-11">
-<path d="M84,156 l-37,3" class="combo"/>
-<path d="M84,156 l38,-6" class="combo"/>
-<rect rx="6" ry="6" x="70" y="143" width="28" height="26" class="combo"/>
-<text x="84" y="156" class="combo tap">&amp;tdtb2</text>
-</g>
-<g class="combo combopos-12">
+<g class="combo combopos-10">
 <path d="M28,105 l0,37" class="combo"/>
 <path d="M28,105 l0,-37" class="combo"/>
 <rect rx="6" ry="6" x="14" y="92" width="28" height="26" class="combo"/>
@@ -1269,25 +1229,25 @@ path.combo { stroke: #7f7f7f; }
 <g transform="translate(84, 161)" class="key keypos-25">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">AC</tspan><tspan x="0" dy="1.2em">UNDO</tspan>
+<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">Z</tspan>
 </text>
 </g>
 <g transform="translate(140, 147)" class="key keypos-26">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">AC</tspan><tspan x="0" dy="1.2em">CUT</tspan>
+<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">X</tspan>
 </text>
 </g>
 <g transform="translate(196, 140)" class="key keypos-27">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">AC</tspan><tspan x="0" dy="1.2em">COPY</tspan>
+<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">C</tspan>
 </text>
 </g>
 <g transform="translate(252, 147)" class="key keypos-28">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">AC</tspan><tspan x="0" dy="1.2em">PASTE</tspan>
+<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">V</tspan>
 </text>
 </g>
 <g transform="translate(308, 154)" class="key keypos-29">
@@ -1391,10 +1351,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="700" y="63" class="combo tap">}</text>
 </g>
 <g class="combo combopos-9">
-<rect rx="6" ry="6" x="658" y="18" width="28" height="26" class="combo"/>
-<text x="672" y="32" class="combo tap">DELETE</text>
-</g>
-<g class="combo combopos-10">
 <path d="M420,98 l-93,0" class="combo"/>
 <path d="M420,98 l93,0" class="combo"/>
 <rect rx="6" ry="6" x="406" y="85" width="28" height="26" class="combo"/>
@@ -1402,13 +1358,7 @@ path.combo { stroke: #7f7f7f; }
 <tspan x="420" dy="-0.6em">Caps</tspan><tspan x="420" dy="1.2em">Word</tspan>
 </text>
 </g>
-<g class="combo combopos-11">
-<path d="M84,156 l-37,3" class="combo"/>
-<path d="M84,156 l38,-6" class="combo"/>
-<rect rx="6" ry="6" x="70" y="143" width="28" height="26" class="combo"/>
-<text x="84" y="156" class="combo tap">&amp;tdtb2</text>
-</g>
-<g class="combo combopos-12">
+<g class="combo combopos-10">
 <path d="M28,105 l0,37" class="combo"/>
 <path d="M28,105 l0,-37" class="combo"/>
 <rect rx="6" ry="6" x="14" y="92" width="28" height="26" class="combo"/>
@@ -1616,10 +1566,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="700" y="63" class="combo tap">}</text>
 </g>
 <g class="combo combopos-9">
-<rect rx="6" ry="6" x="658" y="18" width="28" height="26" class="combo"/>
-<text x="672" y="32" class="combo tap">DELETE</text>
-</g>
-<g class="combo combopos-10">
 <path d="M420,98 l-93,0" class="combo"/>
 <path d="M420,98 l93,0" class="combo"/>
 <rect rx="6" ry="6" x="406" y="85" width="28" height="26" class="combo"/>
@@ -1627,13 +1573,7 @@ path.combo { stroke: #7f7f7f; }
 <tspan x="420" dy="-0.6em">Caps</tspan><tspan x="420" dy="1.2em">Word</tspan>
 </text>
 </g>
-<g class="combo combopos-11">
-<path d="M84,156 l-37,3" class="combo"/>
-<path d="M84,156 l38,-6" class="combo"/>
-<rect rx="6" ry="6" x="70" y="143" width="28" height="26" class="combo"/>
-<text x="84" y="156" class="combo tap">&amp;tdtb2</text>
-</g>
-<g class="combo combopos-12">
+<g class="combo combopos-10">
 <path d="M28,105 l0,37" class="combo"/>
 <path d="M28,105 l0,-37" class="combo"/>
 <rect rx="6" ry="6" x="14" y="92" width="28" height="26" class="combo"/>
@@ -1749,25 +1689,25 @@ path.combo { stroke: #7f7f7f; }
 <g transform="translate(84, 161)" class="key keypos-25">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">AC</tspan><tspan x="0" dy="1.2em">UNDO</tspan>
+<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">Z</tspan>
 </text>
 </g>
 <g transform="translate(140, 147)" class="key keypos-26">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">AC</tspan><tspan x="0" dy="1.2em">CUT</tspan>
+<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">X</tspan>
 </text>
 </g>
 <g transform="translate(196, 140)" class="key keypos-27">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">AC</tspan><tspan x="0" dy="1.2em">COPY</tspan>
+<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">C</tspan>
 </text>
 </g>
 <g transform="translate(252, 147)" class="key keypos-28">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">AC</tspan><tspan x="0" dy="1.2em">PASTE</tspan>
+<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">V</tspan>
 </text>
 </g>
 <g transform="translate(308, 154)" class="key keypos-29">
@@ -1871,10 +1811,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="700" y="63" class="combo tap">}</text>
 </g>
 <g class="combo combopos-9">
-<rect rx="6" ry="6" x="658" y="18" width="28" height="26" class="combo"/>
-<text x="672" y="32" class="combo tap">DELETE</text>
-</g>
-<g class="combo combopos-10">
 <path d="M420,98 l-93,0" class="combo"/>
 <path d="M420,98 l93,0" class="combo"/>
 <rect rx="6" ry="6" x="406" y="85" width="28" height="26" class="combo"/>
@@ -1882,13 +1818,7 @@ path.combo { stroke: #7f7f7f; }
 <tspan x="420" dy="-0.6em">Caps</tspan><tspan x="420" dy="1.2em">Word</tspan>
 </text>
 </g>
-<g class="combo combopos-11">
-<path d="M84,156 l-37,3" class="combo"/>
-<path d="M84,156 l38,-6" class="combo"/>
-<rect rx="6" ry="6" x="70" y="143" width="28" height="26" class="combo"/>
-<text x="84" y="156" class="combo tap">&amp;tdtb2</text>
-</g>
-<g class="combo combopos-12">
+<g class="combo combopos-10">
 <path d="M28,105 l0,37" class="combo"/>
 <path d="M28,105 l0,-37" class="combo"/>
 <rect rx="6" ry="6" x="14" y="92" width="28" height="26" class="combo"/>
@@ -2004,25 +1934,25 @@ path.combo { stroke: #7f7f7f; }
 <g transform="translate(84, 161)" class="key keypos-25">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">AC</tspan><tspan x="0" dy="1.2em">UNDO</tspan>
+<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">Z</tspan>
 </text>
 </g>
 <g transform="translate(140, 147)" class="key keypos-26">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">AC</tspan><tspan x="0" dy="1.2em">CUT</tspan>
+<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">X</tspan>
 </text>
 </g>
 <g transform="translate(196, 140)" class="key keypos-27">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">AC</tspan><tspan x="0" dy="1.2em">COPY</tspan>
+<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">C</tspan>
 </text>
 </g>
 <g transform="translate(252, 147)" class="key keypos-28">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">AC</tspan><tspan x="0" dy="1.2em">PASTE</tspan>
+<tspan x="0" dy="-0.6em">Ctl+</tspan><tspan x="0" dy="1.2em">V</tspan>
 </text>
 </g>
 <g transform="translate(308, 154)" class="key keypos-29">
@@ -2126,10 +2056,6 @@ path.combo { stroke: #7f7f7f; }
 <text x="700" y="63" class="combo tap">}</text>
 </g>
 <g class="combo combopos-9">
-<rect rx="6" ry="6" x="658" y="18" width="28" height="26" class="combo"/>
-<text x="672" y="32" class="combo tap">DELETE</text>
-</g>
-<g class="combo combopos-10">
 <path d="M420,98 l-93,0" class="combo"/>
 <path d="M420,98 l93,0" class="combo"/>
 <rect rx="6" ry="6" x="406" y="85" width="28" height="26" class="combo"/>
@@ -2137,13 +2063,7 @@ path.combo { stroke: #7f7f7f; }
 <tspan x="420" dy="-0.6em">Caps</tspan><tspan x="420" dy="1.2em">Word</tspan>
 </text>
 </g>
-<g class="combo combopos-11">
-<path d="M84,156 l-37,3" class="combo"/>
-<path d="M84,156 l38,-6" class="combo"/>
-<rect rx="6" ry="6" x="70" y="143" width="28" height="26" class="combo"/>
-<text x="84" y="156" class="combo tap">&amp;tdtb2</text>
-</g>
-<g class="combo combopos-12">
+<g class="combo combopos-10">
 <path d="M28,105 l0,37" class="combo"/>
 <path d="M28,105 l0,-37" class="combo"/>
 <rect rx="6" ry="6" x="14" y="92" width="28" height="26" class="combo"/>

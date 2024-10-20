@@ -67,19 +67,9 @@
             key-positions = <9 21>;
         };
 
-        Delete {
-            bindings = <&kp DELETE>;
-            key-positions = <8 9>;
-        };
-
         CapsWord {
             bindings = <&caps_word>;
             key-positions = <17 18>;
-        };
-
-        MOUSE_SCROLL {
-            bindings = <&tdtb2>;
-            key-positions = <24 26 25>;
         };
 
         GAME_MODE {
@@ -182,10 +172,10 @@
 
         AUTO-MOUSE {
             bindings = <
-&trans  &trans          &trans          &trans          &trans          &trans       &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans          &trans          &trans          &trans          &trans       &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp C_AC_UNDO   &kp C_AC_CUT    &kp C_AC_COPY   &kp C_AC_PASTE  &mkp MCLK    &trans  &trans  &trans  &trans  &trans  &trans
-                                        &tdtb2          &mkp LCLK       &mkp RCLK    &trans  &trans  &trans
+&trans  &trans     &trans     &trans     &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans     &trans     &trans     &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp LC(Z)  &kp LC(X)  &kp LC(C)  &kp LC(V)  &mkp MCLK    &trans  &trans  &trans  &trans  &trans  &trans
+                              &tdtb2     &mkp LCLK  &mkp RCLK    &trans  &trans  &trans
             >;
         };
 
@@ -200,19 +190,19 @@
 
         SLOW {
             bindings = <
-&trans  &trans          &trans          &trans          &trans          &trans          &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans          &trans          &trans          &trans          &trans          &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp C_AC_UNDO   &kp C_AC_CUT    &kp C_AC_COPY   &kp C_AC_PASTE  &mkp MCLK       &trans  &trans  &trans  &trans  &trans  &trans
-                                        &tdtb2          &mkp LCLK       &mkp RCLK       &trans  &trans  &trans
+&trans  &trans     &trans     &trans     &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans     &trans     &trans     &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp LC(Z)  &kp LC(X)  &kp LC(C)  &kp LC(V)  &mkp MCLK    &trans  &trans  &trans  &trans  &trans  &trans
+                              &tdtb2     &mkp LCLK  &mkp RCLK    &trans  &trans  &trans
             >;
         };
 
         SCROLL {
             bindings = <
-&trans  &trans          &trans          &trans          &trans          &trans          &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans          &trans          &trans          &trans          &trans          &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp C_AC_UNDO   &kp C_AC_CUT    &kp C_AC_COPY   &kp C_AC_PASTE  &mkp MCLK       &trans  &trans  &trans  &trans  &trans  &trans
-                                        &tdtb2          &mkp LCLK       &mkp RCLK       &trans  &trans  &trans
+&trans  &trans     &trans     &trans     &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans     &trans     &trans     &trans     &trans       &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp LC(Z)  &kp LC(X)  &kp LC(C)  &kp LC(V)  &mkp MCLK    &trans  &trans  &trans  &trans  &trans  &trans
+                              &tdtb2     &mkp LCLK  &mkp RCLK    &trans  &trans  &trans
             >;
         };
     };

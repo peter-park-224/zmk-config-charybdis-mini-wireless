@@ -197,10 +197,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - AC UNDO
-  - AC CUT
-  - AC COPY
-  - AC PASTE
+  - Ctl+ Z
+  - Ctl+ X
+  - Ctl+ C
+  - Ctl+ V
   - Middle Click
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -283,10 +283,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - AC UNDO
-  - AC CUT
-  - AC COPY
-  - AC PASTE
+  - Ctl+ Z
+  - Ctl+ X
+  - Ctl+ C
+  - Ctl+ V
   - Middle Click
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -326,10 +326,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - AC UNDO
-  - AC CUT
-  - AC COPY
-  - AC PASTE
+  - Ctl+ Z
+  - Ctl+ X
+  - Ctl+ C
+  - Ctl+ V
   - Middle Click
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -362,11 +362,7 @@ combos:
   k: '{'
 - p: [9, 21]
   k: '}'
-- p: [8, 9]
-  k: DELETE
 - p: [17, 18]
   k: Caps Word
-- p: [24, 26, 25]
-  k: '&tdtb2'
 - p: [24, 12, 0]
   k: {t: GAME, h: toggle}
