@@ -94,10 +94,10 @@ layers:
   - KP MINUS
   - Vol Up
   - Home
-  - Print Scrn
+  - Gui+Sft+ 4
   - Page Up
-  - SLCK
-  - CLCK
+  - BRI INC
+  - BRI DN
   - {t: '=', h: Ctrl}
   - KP MULTIPLY
   - KP 4
@@ -197,10 +197,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - Ctl+ Z
-  - Ctl+ X
-  - Ctl+ C
-  - Ctl+ V
+  - Gui+ Z
+  - Gui+ X
+  - Gui+ C
+  - Gui+ V
   - Middle Click
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -283,10 +283,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - Ctl+ Z
-  - Ctl+ X
-  - Ctl+ C
-  - Ctl+ V
+  - Gui+ Z
+  - Gui+ X
+  - Gui+ C
+  - Gui+ V
   - Middle Click
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -326,10 +326,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - Ctl+ Z
-  - Ctl+ X
-  - Ctl+ C
-  - Ctl+ V
+  - Gui+ Z
+  - Gui+ X
+  - Gui+ C
+  - Gui+ V
   - Middle Click
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
