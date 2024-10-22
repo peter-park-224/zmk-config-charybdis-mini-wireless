@@ -344,12 +344,6 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
 combos:
-- p: [19, 20]
-  k: Left Click
-- p: [20, 21]
-  k: Right Click
-- p: [21, 22]
-  k: Middle Click
 - p: [4, 16]
   k: (
 - p: [7, 19]
@@ -366,3 +360,9 @@ combos:
   k: Caps Word
 - p: [24, 12, 0]
   k: {t: GAME, h: toggle}
+- p: [20, 21, 14, 15]
+  k: Right Click
+- p: [19, 20, 16, 15]
+  k: Left Click
+- p: [21, 22, 13, 14]
+  k: Middle Click
