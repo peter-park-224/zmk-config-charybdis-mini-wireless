@@ -11,7 +11,7 @@ layers:
   - I
   - O
   - P
-  - '['
+  - BACKSPACE
   - LEFT SHIFT
   - A
   - S
@@ -23,7 +23,7 @@ layers:
   - K
   - L
   - ;
-  - {t: '''', h: Ctrl}
+  - ENTER
   - Ctrl
   - Z
   - X
@@ -35,11 +35,11 @@ layers:
   - ','
   - .
   - /
-  - {t: \, h: Alt}
+  - {t: adjust, h: toggle}
   - {t: ↹, h: raise}
   - {t: ␣, h: Shift}
   - lower
-  - {t: Esc, h: lower}
+  - {t: raise, h: toggle}
   - {t: ⌫, h: Shift}
   - {t: ⌦, h: raise}
   lower:
@@ -50,9 +50,9 @@ layers:
   - F5
   - F6
   - F7
-  - F8
-  - F9
-  - F10
+  - '7'
+  - '8'
+  - '9'
   - F11
   - F12
   - {t: +, h: Ctrl}
@@ -62,9 +62,9 @@ layers:
   - $
   - '%'
   - ^
-  - '&'
-  - '*'
-  - (
+  - '4'
+  - '5'
+  - '6'
   - )
   - {t: '-', h: Ctrl}
   - {t: '=', h: Alt}
