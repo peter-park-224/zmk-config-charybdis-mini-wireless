@@ -1,6 +1,6 @@
 layers:
   default:
-  - {t: ']', h: Gui}
+  - ESCAPE
   - Q
   - W
   - E
@@ -12,7 +12,7 @@ layers:
   - O
   - P
   - '['
-  - {t: '`', h: Ctrl}
+  - LEFT SHIFT
   - A
   - S
   - D
@@ -24,7 +24,7 @@ layers:
   - L
   - ;
   - {t: '''', h: Ctrl}
-  - {t: '-', h: Alt}
+  - Ctrl
   - Z
   - X
   - C
@@ -38,7 +38,7 @@ layers:
   - {t: \, h: Alt}
   - {t: ↹, h: raise}
   - {t: ␣, h: Shift}
-  - {t: ⏎, h: lower}
+  - lower
   - {t: Esc, h: lower}
   - {t: ⌫, h: Shift}
   - {t: ⌦, h: raise}
@@ -94,7 +94,7 @@ layers:
   - KP MINUS
   - Vol Up
   - Home
-  - Gui+Sft+ 4
+  - Gui+Sft+4
   - Page Up
   - BRI INC
   - BRI DN
@@ -197,10 +197,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - Gui+ Z
-  - Gui+ X
-  - Gui+ C
-  - Gui+ V
+  - Gui+Z
+  - Gui+X
+  - Gui+C
+  - Gui+V
   - Middle Click
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -283,10 +283,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - Gui+ Z
-  - Gui+ X
-  - Gui+ C
-  - Gui+ V
+  - Gui+Z
+  - Gui+X
+  - Gui+C
+  - Gui+V
   - Middle Click
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -326,10 +326,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - Gui+ Z
-  - Gui+ X
-  - Gui+ C
-  - Gui+ V
+  - Gui+Z
+  - Gui+X
+  - Gui+C
+  - Gui+V
   - Middle Click
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
